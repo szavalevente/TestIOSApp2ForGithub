@@ -1,4 +1,5 @@
 This is a text file
 Some additional text
 Change applied on github
+This is a new change in the text file
 
