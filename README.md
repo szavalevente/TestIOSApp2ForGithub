@@ -1,0 +1,1 @@
+This is a change applied on local git repository.
